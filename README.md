@@ -1,1 +1,2 @@
-# State-updates-Batching
+**1.** **Your task is to explain why the console.log shows the older value of count**
+
